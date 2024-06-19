@@ -1,4 +1,5 @@
-### Health Management APP
+### Health Management
+## Calorie Advisor 
 from dotenv import load_dotenv
 
 load_dotenv() ## load all the environment variables
